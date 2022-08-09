@@ -15,6 +15,11 @@ const b = new Node("B");
 const c = new Node("C");
 const d = new Node("D");
 
+// the "new" keyword
+// 1- it creates a new empty object {}
+//2- it binds the values of "this" to the new empty object
+// 3- it calls the constructor function to build the object  
+
 a.next = b;
 b.next = c;
 c.next = d;
