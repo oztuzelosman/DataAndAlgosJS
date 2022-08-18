@@ -31,7 +31,7 @@ console.log(recursionSum(3));
 
 ////// ITERATION OF OBJECT INDEFINITE TIMES (Where recursion becomes useful)
 
-const TeamStructure = {
+/* const TeamStructure = {
   name: "Osman",
   teams: [
     {
@@ -62,3 +62,6 @@ function getTeamDetail(t) {
 }
 
 getTeamDetail(TeamStructure);
+ */
+
+//
